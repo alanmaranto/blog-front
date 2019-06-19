@@ -1,0 +1,1 @@
+export default () => localStorage.getItem('blogToken') !== null; //solo para determinar si el usuario existe o no
